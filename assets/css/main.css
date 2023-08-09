@@ -1664,3 +1664,6 @@ input, select, textarea {
 
 		.adjust-line-height {line-height: 1px;}
 		.URLS {line-height: 1px;}
+		.custom-icon {
+			list-style: none; /* Remove the default list-style */
+		  }
